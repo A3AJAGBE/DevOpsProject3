@@ -1,1 +1,8 @@
-<paste log output from Kubernetes-mediated prediction, here>
+Error from server (AlreadyExists): pods "project3kubs" already exists
+NAME                                READY   STATUS             RESTARTS   AGE
+dockerkubernetes-6fdb96d596-jhvsl   0/1     ImagePullBackOff   0          32s
+project3kubs                        1/1     Running            0          11m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000

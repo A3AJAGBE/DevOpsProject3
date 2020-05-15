@@ -7,9 +7,13 @@
 # Create dockerpath
 # dockerpath=<your docker ID/path>
 
-# Step 2:  
+dockerpath="a3ajagbe/containerization-demo:devopsproject3"
+
+# Step 2:
 # Authenticate & tag
-echo "Docker ID and Image: $dockerpath"
+docker login
+docker tag 7578b1a5c7fc a3ajagbe/containerization-demo:devopsproject3
 
 # Step 3:
 # Push image to a docker repository
+docker push a3ajagbe/containerization-demo:devopsproject3
