@@ -1,4 +1,4 @@
-[![<A3AJAGBE>](https://circleci.com/github/A3AJAGBE/DevOpsProject3.svg?style=svg)](<https://app.circleci.com/pipelines/github/A3AJAGBE/DevOpsProject3>)
+[![CircleCI](https://circleci.com/gh/A3AJAGBE/DevOpsProject3.svg?style=svg)](https://circleci.com/gh/A3AJAGBE/DevOpsProject3)
 
 ## Project Overview
 
